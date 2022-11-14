@@ -1,0 +1,4 @@
+建立关联后，可以用如下命令查看关联的远程仓库信息：
+git remote –v
+取回远程仓库的主分支更新，命令如下。
+git pull github main
